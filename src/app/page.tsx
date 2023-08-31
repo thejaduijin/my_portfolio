@@ -6,6 +6,7 @@ export default function Home() {
       <div className={styles.center}>
         <h1>Hello, I'm Lokendra Singh</h1>
       </div>
+      <h2>Web Developer</h2>
     </main>
   )
 }
